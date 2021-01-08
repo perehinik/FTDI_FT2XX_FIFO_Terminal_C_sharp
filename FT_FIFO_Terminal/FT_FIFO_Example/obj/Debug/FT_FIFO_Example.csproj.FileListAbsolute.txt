@@ -1,0 +1,13 @@
+C:\Users\Home\source\repos\FT_FIFO_Example\FT_FIFO_Example\obj\Debug\FT_FIFO_Example.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\FT_FIFO_Example\FT_FIFO_Example\obj\Debug\FT_FIFO_Example.Form1.resources
+C:\Users\Home\source\repos\FT_FIFO_Example\FT_FIFO_Example\obj\Debug\FT_FIFO_Example.Properties.Resources.resources
+C:\Users\Home\source\repos\FT_FIFO_Example\FT_FIFO_Example\obj\Debug\FT_FIFO_Example.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\FT_FIFO_Example\FT_FIFO_Example\obj\Debug\FT_FIFO_Example.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\FT_FIFO_Example\FT_FIFO_Example\bin\Debug\FT_FIFO_Example.exe.config
+C:\Users\Home\source\repos\FT_FIFO_Example\FT_FIFO_Example\bin\Debug\FT_FIFO_Example.exe
+C:\Users\Home\source\repos\FT_FIFO_Example\FT_FIFO_Example\bin\Debug\FT_FIFO_Example.pdb
+C:\Users\Home\source\repos\FT_FIFO_Example\FT_FIFO_Example\bin\Debug\FTD2XX_NET.dll
+C:\Users\Home\source\repos\FT_FIFO_Example\FT_FIFO_Example\bin\Debug\FTD2XX_NET.xml
+C:\Users\Home\source\repos\FT_FIFO_Example\FT_FIFO_Example\obj\Debug\FT_FIFO_Example.csproj.CopyComplete
+C:\Users\Home\source\repos\FT_FIFO_Example\FT_FIFO_Example\obj\Debug\FT_FIFO_Example.exe
+C:\Users\Home\source\repos\FT_FIFO_Example\FT_FIFO_Example\obj\Debug\FT_FIFO_Example.pdb
